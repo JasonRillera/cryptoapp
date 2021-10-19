@@ -13,7 +13,7 @@ Jason Rillera: https://github.com/JasonRillera
 
 ## [Live Demo](https://cryptouniverse.netlify.app/)
 
-![CryptoVerse Medium Gif](cvHome.gif)
-![CryptoVerse Medium Gif](cvDetails.gif)
-![CryptoVerse Medium Gif](cvExchanges.gif)
-![CryptoVerse Medium Gif](cvNews.gif)
+![Home](cvHome.gif)
+![Crypto Details](cvDetails.gif)
+![Crypto Exchanges](cvExchanges.gif)
+![Crypto News](cvNews.gif)
