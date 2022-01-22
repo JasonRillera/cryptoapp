@@ -1,6 +1,6 @@
 # CryptoVerse
 
-CryptoVerse is a Cryptocurrency website designed to show current prices and infoformation on all cryptocurrencies. It was build with React JS / Redux, utilizes the RapidAPI to fetch all the data needed, and uses stying from Ant Design for a great UX/UI
+CryptoVerse is a Cryptocurrency website designed to show current prices and infoformation on all cryptocurrencies. It was build with React JS / Redux, utilizes RapidAPI to fetch all the data needed, and uses stying from Ant Design for a great UX/UI
 
 ## Features
 
